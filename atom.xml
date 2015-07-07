@@ -4,7 +4,7 @@
   <title><![CDATA[heyeje.de]]></title>
   <link href="http://heyeje.github.io/atom.xml" rel="self"/>
   <link href="http://heyeje.github.io/"/>
-  <updated>2015-07-07T19:36:44+02:00</updated>
+  <updated>2015-07-07T19:37:27+02:00</updated>
   <id>http://heyeje.github.io/</id>
   <author>
     <name><![CDATA[Heye Jensen]]></name>
@@ -12,29 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[hallo]]></title>
-    <link href="http://heyeje.github.io/blog/2015/07/07/hallo/"/>
-    <updated>2015-07-07T19:36:33+02:00</updated>
-    <id>http://heyeje.github.io/blog/2015/07/07/hallo</id>
-    <content type="html"><![CDATA[<p>hallo</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://heyeje.github.io/blog/2015/07/07/test/"/>
-    <updated>2015-07-07T19:34:34+02:00</updated>
-    <id>http://heyeje.github.io/blog/2015/07/07/test</id>
-    <content type="html"><![CDATA[<h1>Hallo</h1>
-
-<ol>
-<li></li>
-</ol>
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nummer 1]]></title>
