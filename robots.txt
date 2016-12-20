@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://heyeje.github.io/sitemap.xml 
